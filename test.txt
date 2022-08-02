@@ -1,0 +1,3 @@
+conferenceTickets is int, remainingTickets is uint, conferenceName is stringWelcome to Go Conference booking application
+We have total of 50 tickets and 50 tickets remainingGet your tickets here to attend
+Please enter your first name
